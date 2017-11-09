@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatern", "CompositePatern\CompositePatern.csproj", "{1FEDD23E-C368-43E0-958B-1150F9A0B72F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTest", "LibTest\LibTest.csproj", "{A7FCB246-76EB-444E-B166-EADB99E1683E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1FEDD23E-C368-43E0-958B-1150F9A0B72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FEDD23E-C368-43E0-958B-1150F9A0B72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FEDD23E-C368-43E0-958B-1150F9A0B72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FCB246-76EB-444E-B166-EADB99E1683E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FCB246-76EB-444E-B166-EADB99E1683E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FCB246-76EB-444E-B166-EADB99E1683E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FCB246-76EB-444E-B166-EADB99E1683E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
