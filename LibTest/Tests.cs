@@ -9,7 +9,7 @@ using CompositePatern;
 namespace LibTest
 {
     [TestFixture]
-    public class Class1
+    public class Tests
     {
         [Test]
         public void katalogand2file()
